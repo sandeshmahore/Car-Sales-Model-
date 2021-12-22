@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Sandesh Mahore\OneDrive\Desktop\visual studio\Car Sales Part 2\Assignment_part_2\Assignment_part_2\main.c(11,17): warning C4273: '_errno': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stddef.h(31,27): message : see previous definition of '_errno'
+  Assignment_part_2.vcxproj -> C:\Users\Sandesh Mahore\OneDrive\Desktop\visual studio\Car Sales Part 2\Assignment_part_2\Debug\Assignment_part_2.exe
